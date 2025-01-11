@@ -1,0 +1,9 @@
+[project]
+name = "rabbit-todo"
+version = "0.0.1"
+description = "todo app with coins system"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "tkcalendar>=1.6.1",
+]
